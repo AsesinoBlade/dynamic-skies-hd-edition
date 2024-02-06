@@ -1,0 +1,44 @@
+{
+    "ModTitle": "Dynamic Skies - HD Edition",
+    "ModVersion": "2.1",
+    "ModAuthor": "BadLuckBurt and carademono",
+    "ContactInfo": "Lysandus' Tomb Discord server",
+    "DFUnity_Version": "1.0.0",
+    "ModDescription": "HD preset for Dynamic Skies",
+    "GUID": "1aed7898-8b86-4b28-89ea-fdd20e0729bc",
+    "Files": [
+        "Assets/Game/Mods/dynamic-skies-hd-edition/FogSettings/FogOvercast.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/FogSettings/FogRainy.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/FogSettings/FogHeavyFog.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/FogSettings/FogSunny.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/FogSettings/FogSnowy.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/SkyboxSettings/SkyboxSunny.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/SkyboxSettings/SkyboxRain.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/SkyboxSettings/SkyboxCloudy.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/SkyboxSettings/SkyboxFog.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/SkyboxSettings/SkyboxThunder.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/SkyboxSettings/SkyboxOvercast.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/SkyboxSettings/SkyboxSnow.json",
+        "Assets/Game/Mods/dynamic-skies/Textures/DefaultStarsTwinkleMask.png",
+        "Assets/Game/Mods/dynamic-skies/Textures/DefaultStarsTwinkleNoise.png",
+        "Assets/Game/Mods/dynamic-skies/Textures/PixelSnow.png",
+        "Assets/Game/Mods/dynamic-skies/Textures/NLStarsThiefMask.png",
+        "Assets/Game/Mods/dynamic-skies/Textures/NLStarsBlack.png",
+        "Assets/Game/Mods/dynamic-skies/Textures/NLstarsHighlight.png",
+        "Assets/Game/Mods/dynamic-skies/Textures/HDStars.png",
+        "Assets/Game/Mods/dynamic-skies/Textures/HDStarsTwinkleMask.png",
+        "Assets/Game/Mods/dynamic-skies/Textures/DefaultStars.png",
+        "Assets/Game/Mods/dynamic-skies/Textures/CdMCloudsHD.png",
+        "Assets/Game/Mods/dynamic-skies/Textures/DefaultEnceladus.jpg",
+        "Assets/Game/Mods/dynamic-skies/Textures/DefaultMars.png",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/dynamic-skies-hd-edition.dfmod.json",
+        "Assets/Game/Mods/dynamic-skies/Textures/CdMSnowHD.png"
+    ],
+    "Dependencies": [
+        {
+            "Name": "dynamic skies",
+            "IsOptional": false,
+            "IsPeer": false
+        }
+    ]
+}
