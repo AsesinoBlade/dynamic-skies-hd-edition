@@ -33,8 +33,16 @@
         "Assets/Game/Mods/dynamic-skies/Textures/DefaultMars.png",
         "Assets/Game/Mods/dynamic-skies-hd-edition/dynamic-skies-hd-edition.dfmod.json",
         "Assets/Game/Mods/dynamic-skies/Textures/CdMSnowHD.png",
-        "Assets/Game/Mods/dynamic-skies/LightCurveSettings/LightCurve.json"
+        "Assets/Game/Mods/dynamic-skies/LightCurveSettings/LightCurve.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/SkyboxSettings/SkyboxCloudyNight.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/SkyboxSettings/SkyboxThunderNight.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/SkyboxSettings/SkyboxSunnyNight.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/SkyboxSettings/SkyboxSnowNight.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/SkyboxSettings/SkyboxRainNight.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/SkyboxSettings/SkyboxOvercastNight.json",
+        "Assets/Game/Mods/dynamic-skies-hd-edition/SkyboxSettings/SkyboxFogNight.json"
     ],
+    "ModPreCompile": false,
     "Dependencies": [
         {
             "Name": "dynamic skies",
